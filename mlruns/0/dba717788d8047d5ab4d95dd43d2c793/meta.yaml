@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dba717788d8047d5ab4d95dd43d2c793/artifacts
+end_time: 1759687725241
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dba717788d8047d5ab4d95dd43d2c793
+run_name: vaunted-skunk-886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759687725229
+status: 3
+tags: []
+user_id: rajveersinhjadav

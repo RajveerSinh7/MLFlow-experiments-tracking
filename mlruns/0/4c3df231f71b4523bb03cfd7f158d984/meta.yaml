@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4c3df231f71b4523bb03cfd7f158d984/artifacts
+end_time: 1759687802211
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c3df231f71b4523bb03cfd7f158d984
+run_name: run_depth_11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759687802199
+status: 3
+tags: []
+user_id: rajveersinhjadav
