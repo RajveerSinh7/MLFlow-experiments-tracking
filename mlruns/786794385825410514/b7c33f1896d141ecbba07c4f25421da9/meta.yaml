@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rajveersinhjadav/Desktop/MLflow/mlruns/786794385825410514/b7c33f1896d141ecbba07c4f25421da9/artifacts
+end_time: 1759697597680
+entry_point_name: ''
+experiment_id: '786794385825410514'
+lifecycle_stage: active
+run_id: b7c33f1896d141ecbba07c4f25421da9
+run_name: grandiose-jay-489
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759697597674
+status: 3
+tags: []
+user_id: rajveersinhjadav

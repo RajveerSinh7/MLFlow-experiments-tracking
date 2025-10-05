@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rajveersinhjadav/Desktop/MLflow/mlruns/786794385825410514/8c0de4111dc34c06b9313a6eda72db6f/artifacts
+end_time: 1759697597625
+entry_point_name: ''
+experiment_id: '786794385825410514'
+lifecycle_stage: active
+run_id: 8c0de4111dc34c06b9313a6eda72db6f
+run_name: smiling-foal-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759697597619
+status: 3
+tags: []
+user_id: rajveersinhjadav

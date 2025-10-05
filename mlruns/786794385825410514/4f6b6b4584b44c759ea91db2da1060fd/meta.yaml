@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rajveersinhjadav/Desktop/MLflow/mlruns/786794385825410514/4f6b6b4584b44c759ea91db2da1060fd/artifacts
+end_time: 1759697599230
+entry_point_name: ''
+experiment_id: '786794385825410514'
+lifecycle_stage: active
+run_id: 4f6b6b4584b44c759ea91db2da1060fd
+run_name: honorable-grouse-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759697595691
+status: 3
+tags: []
+user_id: rajveersinhjadav

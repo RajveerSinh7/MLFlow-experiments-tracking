@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rajveersinhjadav/Desktop/MLflow/mlruns/786794385825410514/776f6809db94455681a02b82183185a4/artifacts
+end_time: 1759697597659
+entry_point_name: ''
+experiment_id: '786794385825410514'
+lifecycle_stage: active
+run_id: 776f6809db94455681a02b82183185a4
+run_name: magnificent-ape-120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759697597652
+status: 3
+tags: []
+user_id: rajveersinhjadav

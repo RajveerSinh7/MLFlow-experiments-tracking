@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rajveersinhjadav/Desktop/MLflow/mlruns/786794385825410514/c111ddda6cc94885a73e0f2d67ef1039/artifacts
+end_time: 1759697597618
+entry_point_name: ''
+experiment_id: '786794385825410514'
+lifecycle_stage: active
+run_id: c111ddda6cc94885a73e0f2d67ef1039
+run_name: salty-lamb-108
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759697597612
+status: 3
+tags: []
+user_id: rajveersinhjadav

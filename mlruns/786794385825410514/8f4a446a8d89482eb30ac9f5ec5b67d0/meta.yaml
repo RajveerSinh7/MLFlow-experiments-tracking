@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rajveersinhjadav/Desktop/MLflow/mlruns/786794385825410514/8f4a446a8d89482eb30ac9f5ec5b67d0/artifacts
+end_time: 1759697597666
+entry_point_name: ''
+experiment_id: '786794385825410514'
+lifecycle_stage: active
+run_id: 8f4a446a8d89482eb30ac9f5ec5b67d0
+run_name: glamorous-horse-542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759697597660
+status: 3
+tags: []
+user_id: rajveersinhjadav

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rajveersinhjadav/Desktop/MLflow/mlruns/786794385825410514/628af908ed064df296871e0d9001b1da/artifacts
+end_time: 1759697597639
+entry_point_name: ''
+experiment_id: '786794385825410514'
+lifecycle_stage: active
+run_id: 628af908ed064df296871e0d9001b1da
+run_name: loud-conch-255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759697597633
+status: 3
+tags: []
+user_id: rajveersinhjadav

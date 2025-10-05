@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rajveersinhjadav/Desktop/MLflow/mlruns/786794385825410514/09cabc22e78f44f9a70fcbb81baaa7a0/artifacts
+end_time: 1759697597632
+entry_point_name: ''
+experiment_id: '786794385825410514'
+lifecycle_stage: active
+run_id: 09cabc22e78f44f9a70fcbb81baaa7a0
+run_name: dapper-loon-619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759697597626
+status: 3
+tags: []
+user_id: rajveersinhjadav

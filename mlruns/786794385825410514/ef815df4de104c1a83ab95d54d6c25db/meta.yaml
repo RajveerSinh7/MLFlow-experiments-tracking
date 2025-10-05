@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rajveersinhjadav/Desktop/MLflow/mlruns/786794385825410514/ef815df4de104c1a83ab95d54d6c25db/artifacts
+end_time: 1759697597674
+entry_point_name: ''
+experiment_id: '786794385825410514'
+lifecycle_stage: active
+run_id: ef815df4de104c1a83ab95d54d6c25db
+run_name: thundering-sheep-965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759697597667
+status: 3
+tags: []
+user_id: rajveersinhjadav

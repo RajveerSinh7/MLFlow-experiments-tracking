@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rajveersinhjadav/Desktop/MLflow/mlruns/786794385825410514/dc958e835480474085bc5277e0fdc5a0/artifacts
+end_time: 1759697597645
+entry_point_name: ''
+experiment_id: '786794385825410514'
+lifecycle_stage: active
+run_id: dc958e835480474085bc5277e0fdc5a0
+run_name: upbeat-ox-394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759697597639
+status: 3
+tags: []
+user_id: rajveersinhjadav

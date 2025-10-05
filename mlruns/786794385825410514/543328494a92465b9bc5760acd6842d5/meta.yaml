@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rajveersinhjadav/Desktop/MLflow/mlruns/786794385825410514/543328494a92465b9bc5760acd6842d5/artifacts
+end_time: 1759697597652
+entry_point_name: ''
+experiment_id: '786794385825410514'
+lifecycle_stage: active
+run_id: 543328494a92465b9bc5760acd6842d5
+run_name: clean-newt-808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759697597646
+status: 3
+tags: []
+user_id: rajveersinhjadav

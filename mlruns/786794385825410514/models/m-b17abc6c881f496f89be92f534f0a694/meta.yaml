@@ -1,0 +1,10 @@
+artifact_location: file:///Users/rajveersinhjadav/Desktop/MLflow/mlruns/786794385825410514/models/m-b17abc6c881f496f89be92f534f0a694/artifacts
+creation_timestamp: 1759697597716
+experiment_id: '786794385825410514'
+last_updated_timestamp: 1759697599228
+model_id: m-b17abc6c881f496f89be92f534f0a694
+model_type: null
+name: random_forest
+source_run_id: 4f6b6b4584b44c759ea91db2da1060fd
+status: 2
+status_message: null
